@@ -4,7 +4,7 @@
 *LOCAL FOOD MANUFACTURING GAP INDEX
 *KANSAS STATE UNIVERSITY
 
-*PURPOSE OF FILE - DATA PREDICTION  
+*PURPOSE OF FILE - DATA PREDICTION  (THIS IS THE MAIN REPLICATION FILE)
 **********************************************************************
 
 **********************************************************************
