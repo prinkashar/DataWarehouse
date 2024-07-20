@@ -6,7 +6,7 @@
 
 *PURPOSE OF FILE - PREDICTION
 
-Priyanka Sharma, Jiyeon Kim, Walter Ac Pangan (2024-07-19). Drivers of New Local Food Business Establishment: The Case of the Small Food Manufacturing Industry (NAICS 311) in the Heartland Region, v1.0. USDA AMS Data Warehouse.
+Priyanka Sharma, Jiyeon Kim, Walter Ac Pangan (2024-07-19). Drivers of the Establishment of New Local Food Manufacturing Businesses in the Heartland Region, v1.0. USDA AMS Data Warehouse.
 **********************************************************************
 
 **********************************************************************
